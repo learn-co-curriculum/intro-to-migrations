@@ -1,8 +1,6 @@
 tags:
-  - active record
-  - migrations
+  - a tag
 languages:
-  - Ruby
-  - SQL
-resources:
+  - a language
+resources: 
   - 0
