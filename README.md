@@ -37,3 +37,5 @@ As programmers we hate repetition. Luckily for us, the makers of Active Record r
 
 Migrations have the added benefit of allowing us to track changes to our database. We might write one migration that creates a certain table and another migration that changes that table later on. So, each migration becomes a list of changes to our database. We can refer to this list at any time, we can even apply particular changes and not others, or reverse particular changes and not others. It's like version control for our database!
 
+
+<a href='https://learn.co/lessons/intro-to-migrations' data-visibility='hidden'>View this lesson on Learn.co</a>
